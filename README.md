@@ -7,7 +7,9 @@ MapQuest is used to geocode
 Steps to get the application running:
 * Clone the repo
 * Create a python virtual env  
-`python -m venv venv_name`
+`python -m venv venv_name`  
+* Change to the application directory  
+`cd geocoding-django-app`  
 * Activate the virtual env  
 `.\venv_name\Scripts\activate`
 * Install the requirements  
