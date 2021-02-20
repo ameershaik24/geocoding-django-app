@@ -1,0 +1,8 @@
+__pycache__/
+.idea/*
+*.pyc
+*.sublime-*
+geocode/processed_files/*
+!geocode/processed_files/__init__.py
+geocode/uploaded_files/*
+!geocode/uploaded_files/__init__.py
